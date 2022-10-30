@@ -1,0 +1,32 @@
+.site-header {
+    background-color: #BAD1C2;
+
+    align-items: center;
+}
+
+.site-header-wrapper {
+    display: flex;
+    justify-content: space-around;
+    flex: 1;
+    align-items: center;
+}
+
+.logo {
+    flex: 4;
+}
+
+.navigation {
+    display: block;
+}
+
+.header_button {
+    
+    background-color: aliceblue;
+}
+
+body {
+    background-color: #F6F6C9;
+
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+}
